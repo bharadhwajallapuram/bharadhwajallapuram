@@ -5,7 +5,7 @@
 ---
 
 ## 💼 Professional Summary
-I am a full‑stack engineer with experience delivering **secure, scalable, and high‑performance** platforms across healthcare, finance, and enterprise environments. I specialize in building **cloud-native microservices**, **event-driven architectures**, **real-time systems**, and **AI‑powered automation**. My work consistently improves system reliability, data integrity, and user experience.
+I am SDE with experience delivering **secure, scalable, and high‑performance** platforms across healthcare, finance, and enterprise environments. I specialize in building **cloud-native microservices**, **event-driven architectures**, **real-time systems**, and **AI‑powered automation**. My work consistently improves system reliability, data integrity, and user experience.
 
 ---
 
@@ -16,6 +16,9 @@ I am a full‑stack engineer with experience delivering **secure, scalable, and 
 **AI/ML:** LangChain, LLMs, RAG, PyTorch, TensorFlow, ONNX Runtime, MLflow, Kubeflow  
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Pinecone, MinIO, Elasticsearch
 
+---
+## 🎓 Certifications
+- **AWS Certified Solutions Architect – Associate**
 ---
 
 ## ⭐ Key Projects (Impact Focused)
