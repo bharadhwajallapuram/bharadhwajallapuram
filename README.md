@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Bharadhwaj Reddy**
 
-**Full Stack Software Engineer | Cloud & Distributed Systems | AI/ML Engineering**
+**Software Development Engineer | Cloud & Distributed Systems | AI/ML Engineering**
 
 ---
 
